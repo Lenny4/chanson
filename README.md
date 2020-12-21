@@ -10,4 +10,4 @@ je dois livrer en inté
 
 Stagiaire ramène moi mon café, mais il se prends pour qui lui, SUDO stagiaire ramène moi mon café
 
-Ici pas d'hélicoptère y'a que des serveurs apache
+Ici pas d'hélicoptère, uniquement des serveurs apache
