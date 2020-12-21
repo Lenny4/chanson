@@ -8,4 +8,4 @@ composer install on est parti
 Commence pas à me parler
 je dois livrer en inté
 
-punchline avec sudo
+Stagiaire ramène moi mon café, mais il se prends pour qui lui, SUDO stagiaire ramène moi mon café
