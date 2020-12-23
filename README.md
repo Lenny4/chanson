@@ -8,7 +8,7 @@ composer install on est parti
 Commence pas à me parler
 je dois livrer en inté
 
-Stagiaire ramène moi mon café, "mais il se prends pour qui lui", SUDO stagiaire ramène moi mon café
+Stagiaire ramène moi mon café, "mais il se prends pour qui lui", SUDO stagiaire ramène moi mon café (foireux)
 
 Ici pas d'hélicoptère, uniquement des serveurs apache
 
