@@ -1,5 +1,6 @@
 On a retracé le parcours de ta daronne
-dans un json (Alexandre Beaujour)
+dans un json, (Alexandre Beaujour)
+json derulo (MP)
 
 Je compose ce son comme un projet Symfony (Alexandre Beaujour)
 
