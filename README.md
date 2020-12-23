@@ -23,4 +23,6 @@ Je vais te monter comme un conteneur (docker) (Killian Galea)
 
 Je veux un hastag en notre nom (#balancetondeveloppeur)
 
+Bip Bip Bip réparti introuvable code 404
+
 (conteneur docker, 404, force push, ref Ingénieur Informaticien, un truc avec le binaire)
