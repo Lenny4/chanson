@@ -15,3 +15,11 @@ Ici pas d'hélicoptère, uniquement des serveurs apache
 Je trempe mes commit dans tes larmes
 
 J'ai terraformé ta daronne
+
+T'es aussi fatiguant qu'un pointeur null
+
+C'est pas une pull request mais un poussin request
+
+Tu veux rentrer dans la nezo, t'as pas vu le panneau 403
+
+(conteneur docker, 404, force push)
