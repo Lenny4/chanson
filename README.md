@@ -13,3 +13,5 @@ Stagiaire ramène moi mon café, "mais il se prends pour qui lui", SUDO stagiair
 Ici pas d'hélicoptère, uniquement des serveurs apache
 
 Je trempe mes commit dans tes larmes
+
+J'ai terraformé ta daronne
