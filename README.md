@@ -25,4 +25,6 @@ Je veux un hastag en notre nom (#balancetondeveloppeur)
 
 Bip Bip Bip réparti introuvable code 404
 
+Je débarque dans le game comme un Hello World
+
 (conteneur docker, 404, force push, ref Ingénieur Informaticien, un truc avec le binaire)
