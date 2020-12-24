@@ -29,4 +29,4 @@ Je débarque dans le game comme un Hello World
 
 Le cloud n'existe pas c'est juste l'ordinateur d'un autre
 
-(conteneur docker, 404, force push, ref Ingénieur Informaticien, un truc avec le binaire)
+(conteneur docker, 404, force push, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow)
