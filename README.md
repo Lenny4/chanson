@@ -33,4 +33,8 @@ Le cloud n'existe pas c'est juste l'ordinateur d'un autre
 
 Break point toutes les 2 lignes (vous ne passerez pas)
 
+Ma prof de français avait tort, la fin d'une phrase c'est un point virgule
+
+Ta qualité Sonar on s'en bats les couilles (ça compile)
+
 (conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot)
