@@ -33,4 +33,4 @@ Le cloud n'existe pas c'est juste l'ordinateur d'un autre
 
 Break point toutes les 2 lignes (vous ne passerez pas)
 
-(conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow)
+(conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot)
