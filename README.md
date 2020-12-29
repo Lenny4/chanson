@@ -37,4 +37,6 @@ Ma prof de français avait tort, la fin d'une phrase c'est un point virgule
 
 Ta qualité Sonar on s'en bats les couilles (ça compile)
 
+Je prends mon temps comme un build sur jenkins
+
 (conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot)
