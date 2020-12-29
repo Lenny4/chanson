@@ -39,4 +39,6 @@ Ta qualité Sonar on s'en bats les couilles (ça compile)
 
 Je prends mon temps comme un build sur jenkins
 
+Pas de switch case tous le monde à la même enseigne
+
 (conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot)
