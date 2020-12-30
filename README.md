@@ -45,7 +45,9 @@ rm -rf / dans ta gueule
 
 plus de remboursement, ça reset --hard sur mes dettes
 
-(conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot,
+je suis un .flac t'es un .mp3
+
+(conteneur docker, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot, tar.gz)
 
 - Emergency: system is unusable
 - Alert: action must be taken immediately
