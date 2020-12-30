@@ -41,4 +41,11 @@ Je prends mon temps comme un build sur jenkins
 
 Pas de switch case tous le monde à la même enseigne
 
-(conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot)
+(conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot,
+
+- Emergency: system is unusable
+- Alert: action must be taken immediately
+- Critical: critical conditions
+- Error: error conditions
+- Warning: warning conditions
+- Notice: normal but significant condition)
