@@ -43,6 +43,8 @@ Pas de switch case tous le monde à la même enseigne
 
 rm -rf / dans ta gueule
 
+plus de remboursement, ça reset --hard sur mes dettes
+
 (conteneur docker, 404, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot,
 
 - Emergency: system is unusable
