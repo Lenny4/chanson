@@ -47,6 +47,9 @@ plus de remboursement, ça reset --hard sur mes dettes
 
 je suis un .flac t'es un .mp3
 
+chmod 007, aux armes citoyens || coup d'état !
+Appelle-moi 111, je suis le meilleur Informaticien
+
 (conteneur docker, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot, tar.gz)
 
 - Emergency: system is unusable
