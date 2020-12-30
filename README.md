@@ -1,3 +1,5 @@
+Rap conscient Informatique || La confrérie des développeurs (à trouver)
+
 On a retracé le parcours de ta daronne
 dans un json, (Alexandre Beaujour)
 json derulo (MP)
@@ -48,7 +50,7 @@ plus de remboursement, ça reset --hard sur mes dettes
 je suis un .flac t'es un .mp3
 
 chmod 007, aux armes citoyens || coup d'état !
-Appelle-moi 111, je suis le meilleur Informaticien
+Appelle-moi 111, je suis le meilleur Informaticien (binaire)
 
 (conteneur docker, force push, dump, ref Ingénieur Informaticien, un truc avec le binaire, stackoverflow, dual boot, tar.gz)
 
