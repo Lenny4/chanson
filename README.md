@@ -60,3 +60,4 @@ Appelle-moi 111, je suis le meilleur Informaticien (binaire)
 - Error: error conditions
 - Warning: warning conditions
 - Notice: normal but significant condition)
+- droit d'entrée 007
